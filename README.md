@@ -1,8 +1,8 @@
-# proxy-finder
+# Introduction
 Proxy-finder is a http proxy server discovering tool. 
-1. Read an ip rage from file
-2. Select some ips from the list randomly, and send tcp syn packets to them.
-3. When receive the packets from the hosts above, try to judge whether they are proxies. 
+- Read an ip rage from file
+- Select some ips from the list randomly, and send tcp syn packets to them.
+- When receive the packets from the hosts above, try to judge whether they are proxies. 
 
 ## Requires
 ```
